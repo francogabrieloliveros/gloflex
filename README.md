@@ -1,9 +1,8 @@
 ﻿<img src="./doc_images/header.png" alt="" style="width: 100%;">
 
 <div align="center">
-  <img alt="Static Badge" src="https://img.shields.io/badge/React-5ED2F3">
-  <img alt="Static Badge" src="https://img.shields.io/badge/Tailwind-CSS-3BBBF7">
-  <img src="https://deploy-badge.vercel.app/vercel/deploy-badge"/>
+  <img alt="Static Badge" src="https://img.shields.io/badge/Arduino-009197">
+  <img alt="Static Badge" src="https://img.shields.io/badge/C-++-005796">
 </div>
 
 # GLOFLEX
