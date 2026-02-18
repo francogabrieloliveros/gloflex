@@ -41,4 +41,4 @@ Follow the schematic diagram below. After that, you can connect the Arduino Nano
 
 - Read our [reserach paper](https://drive.google.com/file/d/1E5YhzoAbpzOS5He5SWwR0dnKx_ctYTIx/view?usp=sharing) for more information.
 - The threshold for each sensor may vary, feel free to modify the code.
-- The folder for the audio for each letter is not in this repository, no audio will be played for each hand sign. Instead, you can try to print the letter in the console if to replace the playing of letter audios.
+- The folder for the audio for each letter is not in this repository, no audio will be played for each hand sign. Instead, you can try to print the letter in the console to replace the playing of letter audios.
